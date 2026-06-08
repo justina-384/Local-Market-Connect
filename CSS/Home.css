@@ -25,7 +25,6 @@ body{
     width:100%;
 }
 .logo{
-    font-size:20px;
     font-weight:bold;
     color:#2d5f2e;
 }
@@ -42,7 +41,6 @@ body{
     background:white;
     padding:10px 18px;
     border-radius:20px;
-    font-size:14px;
 }
 
 .search-box input{
@@ -61,25 +59,18 @@ body{
     gap:40px;
 }
 
-.hero-text{
-    flex:1;
-}
-
 .hero-text h2{
     color:#8dc63f;
-    font-size:50px;
     margin-bottom:10px;
 }
 
 .hero-text h1{
     color:#14532d;
-    font-size:70px;
     margin-bottom:10px;
 }
 
 .hero-text h3{
     color:#8dc63f;
-    font-size:35px;
     margin-bottom:20px;
 }
 
@@ -164,7 +155,7 @@ body{
 .leaf{
     position:absolute;
     color:green;
-    font-size:25px;
+    font-size: 25;
 }
 
 .leaf1{ 
