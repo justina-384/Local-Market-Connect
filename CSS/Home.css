@@ -29,6 +29,7 @@ body{
     display:flex;
     justify-content:space-between;
     align-items:center;
+    width:100%;
 }
 
 .logo{
@@ -161,8 +162,8 @@ body{
 }
 
 .hero-image img{
-    width:420px;
-    height:420px;
+    width:40%;
+    height:40%;
     object-fit:cover;
     border-radius:50% 45% 50% 45%;
 }
